@@ -18,7 +18,8 @@ const skills = [
             'Node.js',
             'PostgreSQL',
             'Docker',
-            'Python'
+            'Python',
+            'Django'
         ]
     },
     {
