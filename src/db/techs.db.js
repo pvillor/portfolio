@@ -2,29 +2,31 @@ const skills = [
     {
         name: 'Front End',
         techs: [
-            'HTML', 
-            'CSS', 
-            'JavaScript', 
-            'React', 
-            'Redux', 
-            'Context API', 
-            'API REST' 
+            'HTML',
+            'CSS',
+            'JavaScript',
+            'Typescript',
+            'React',
+            'Redux',
+            'Context API',
+            'API REST'
         ]
     },
     {
         name: 'Back End',
         techs: [
-            'Node.js', 
-            'PostgreSQL', 
-            'Docker'
+            'Node.js',
+            'PostgreSQL',
+            'Docker',
+            'Python'
         ]
     },
     {
         name: 'Outras habilidades',
         techs: [
-            'Git', 
-            'GitHub', 
-            'Scrum', 
+            'Git',
+            'GitHub',
+            'Scrum',
             'Inglês intermediário'
         ]
     }
